@@ -1,0 +1,6 @@
+﻿  main_window.cpp
+G:\dev\numerical methods\numerical methods _lab\numerical methods _lab\numerical methods _lab\main_window.cpp(7,33): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+G:\dev\numerical methods\numerical methods _lab\numerical methods _lab\numerical methods _lab\main_window.cpp(107,40): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+G:\dev\numerical methods\numerical methods _lab\numerical methods _lab\numerical methods _lab\main_window.cpp(132,40): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  main_window.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  numerical methods _lab.vcxproj -> G:\dev\numerical methods\numerical methods _lab\numerical methods _lab\x64\Debug\numerical methods _lab.exe
